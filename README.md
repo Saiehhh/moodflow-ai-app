@@ -39,3 +39,6 @@ npm install
 
 # Start the Expo app
 npx expo start
+
+## 🌐 Live Preview
+Try the app on Expo 👉 [MoodFlow Live](https://expo.dev/accounts/saiehhh/projects/MoodFlow)
